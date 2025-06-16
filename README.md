@@ -29,7 +29,6 @@ algorithmTraining.ipynb — Simple notebook to run and test example prompts thro
 functions.py — Core parsing, matching, and detail extraction functions
 example_prompts.txt — Sample workout prompt inputs for testing and development
 ExerciseLibrary.csv — Exercise library with names and aliases (~1000 entries) used for matching
-AppImages/ — Folder containing images demonstrating how the algorithm integrates with the iOS app
 README.md — This documentation file
 
 ## Notes
@@ -42,8 +41,5 @@ This project is fully open source and free to use. I have an existing iOS app th
 If you'd like to contribute enhancements, report issues, or add new features, please feel free to submit a pull request.
 
 If you’re interested in collaborating to help build or improve the app—whether through development, UI/UX, or other ideas—please reach out to me at ddiaz1126@yahoo.com. I’m excited to connect with developers and fitness enthusiasts to make this tool even better.
-
-## License
-This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
 Feel free to use, modify, and distribute this software freely.
