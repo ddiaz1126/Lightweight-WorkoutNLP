@@ -1,0 +1,14 @@
+# Example 1
+Superset
+Pulldown 4x10 @120lbs 2RIR
+Lunges 3x20 @30lbs 1RIR
+Bench Press 4x8 8RPE
+Circuit
+Push Ups 3x12,15,17 22RIR
+Sit Ups 3x20 0RPE
+Jump Rope 3x30sec
+
+# Example 2
+Superset
+Squat 3x12 @150lbs 2RIR
+Overhead Press 3x10 @60lbs 1RIR
